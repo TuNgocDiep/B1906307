@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tu Ngoc Diep</h1>
+<h1 align="center">Xin chào 👋!Tôi tên Tu Ngoc Diep</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/d-cute.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
+<h3 align="center"> Đại Học Cần Thơ - CTU </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
 
-- ✍ I'm a student of: [Can Tho University](https://www.ctu.edu.vn/) (CTU).
+- ✍ Khoa: Công nghệ thông tin và truyền thông (http://www.cit.ctu.edu.vn/) (CIT).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 Phát triển hệ thống web (CT299)**
 
 
 ## 📫 How to reach me:
